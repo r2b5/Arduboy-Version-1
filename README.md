@@ -1,3 +1,5 @@
+<img src=pics/20260313_103529.jpg width=200>
+
 # Arduboy-Version-1
 
 This project is a derivative of the original **DIY Mini Retro Game Console** by MaDDy Regal (Uttar Pradesh, India), published on Instructables:  
