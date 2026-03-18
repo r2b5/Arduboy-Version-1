@@ -7,7 +7,7 @@ https://www.instructables.com/DIY-Mini-Retro-Game-Console-With-Gmaes-Arduino-and
 
 ## Overview
 
-The goal of this project is to provide a simplified and educational version of a retro game console based on a microcontroller platform. It is designed primarily for teaching purposes and serves as an entry point into embedded systems and electronics development.
+This project is a simplified version of a retro game console based on a microcontroller platform.
 
 ## Hardware
 
