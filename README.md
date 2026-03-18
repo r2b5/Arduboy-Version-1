@@ -5,10 +5,6 @@
 This project is a derivative of the original **DIY Mini Retro Game Console** by MaDDy Regal (Uttar Pradesh, India), published on Instructables:  
 https://www.instructables.com/DIY-Mini-Retro-Game-Console-With-Gmaes-Arduino-and/
 
-## Overview
-
-This project is a simplified version of a retro game console based on a microcontroller platform.
-
 ## Hardware
 
 - Arduino Nano  
